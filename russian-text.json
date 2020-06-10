@@ -1,0 +1,14 @@
+{
+  "input":{
+    "text":"Мистер и миссис Дурсль"
+  },
+  "voice":{
+    "languageCode":"ru-RU",
+    "name":"ru-RU-Standard-B",
+    "ssmlGender":"MALE"
+  },
+  "audioConfig":{
+    "audioEncoding":"MP3"
+  }
+}
+
